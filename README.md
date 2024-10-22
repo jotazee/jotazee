@@ -1,16 +1,13 @@
-## Hi there 👋
+### olá!! eu sou José Carlos 🤙🏾
 
-<!--
-**jotazee/jotazee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josecarloszsp/)
 
-Here are some ideas to get you started:
+![jotazee GitHub stats](https://github-readme-stats.vercel.app/api?username=jotazee&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## tecnologias que uso no meu dia
+
+<div style='display: inline_block'><br/>
+ <img aling=''alt='htm15' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' />
+
+ estudante da universidade vassouras. 1/8
